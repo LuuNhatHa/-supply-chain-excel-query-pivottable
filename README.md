@@ -1,4 +1,4 @@
-# -supply-chain-excel-query-pivottable
+# Supply-chain-excel-query-pivottable
  **Interactive Excel dashboard for analyzing supply chain performance and customer demographics**
  
 ## Project Objectives
